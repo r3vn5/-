@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="رضا عم طلاسم ومحمد"/>
+    <title>Reda and Mohammed</title>
+    <link rel="stylesheet" href="folder/style.css"/>
+</head>
+<body>
+    <h1>Title</h1>
+    <p><sup>محمد</sup> واحد جدا زنجي ميسبح و<i>يتفل</i> هو <mark>يحجي</mark> اما طلاسم هو واحد56 كلشي ميعرق وسالب <u>700- من الحنكة</u> <ins>ومؤمن عمكم</ins></p>
+    <img src="c:\Users\Aa\Downloads\5307505690459365525.jpg" alt="Description of the image">
+</body>
+</html>
